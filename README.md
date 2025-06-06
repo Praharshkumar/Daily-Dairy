@@ -1,8 +1,8 @@
-# 🥛 Daily Dairy
+# 🥛 Daily Dairy – Freshness Delivered Daily
 
-A simple and visually appealing product showcase page for dairy products, built using HTML and CSS. This responsive website lists farm-fresh dairy items like milk, eggs, butter, and more with pricing and product details.
+Welcome to **Daily Dairy**, your one-stop showcase for all-natural dairy products. From creamy milk to rich cheddar cheese, this project demonstrates how simple HTML and CSS can be used to build a clean, responsive product display website.
 
-
+> 🔗 **Live Site:** [praharshkumar.github.io/Daily-Dairy](https://praharshkumar.github.io/Daily-Dairy/)
 
 ## 💡 Features
 
