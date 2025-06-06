@@ -1,0 +1,126 @@
+body {
+  font-family: Arial, sans-serif;
+  background-image: url('https://www.shutterstock.com/image-vector/summer-morning-rural-landscape-cows-600nw-157410764.jpg');
+  background-size: cover;
+  background-position: center;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: rgba(0, 0, 0, 0.7);
+  padding: 30px 20px;
+  text-align: center;
+  color: white;
+}
+
+header h1 {
+  font-size: 42px;
+  font-weight: bold;
+  margin: 0;
+  text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+}
+
+nav {
+  background-color: #ffffffdd;
+  display: flex;
+  justify-content: center;
+  padding: 10px 0;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+}
+
+nav a {
+  margin: 0 20px;
+  text-decoration: none;
+  color: #333;
+  font-weight: bold;
+  transition: color 0.3s ease;
+}
+
+nav a:hover {
+  color: green;
+}
+
+h2 {
+  text-align: center;
+  color: white;
+  margin: 30px 0 20px;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 0 20px 40px;
+}
+
+.product-box {
+  background-color: rgba(255, 255, 255, 0.95);
+  border: 1px solid #ccc;
+  border-radius: 12px;
+  width: 30%;
+  margin: 1.5%;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+  padding: 16px;
+  box-sizing: border-box;
+  transition: transform 0.2s ease;
+}
+
+.product-box:hover {
+  transform: scale(1.03);
+}
+
+.product-image {
+  width: 100%;
+  height: 160px;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+.product-name {
+  font-size: 18px;
+  font-weight: bold;
+  margin: 10px 0 6px;
+}
+
+.product-description {
+  font-size: 14px;
+  color: #444;
+  margin-bottom: 10px;
+}
+
+.product-price {
+  font-size: 16px;
+  font-weight: bold;
+  color: green;
+}
+
+footer {
+  background-color: #222;
+  color: white;
+  text-align: center;
+  padding: 15px 0;
+  position: relative;
+}
+
+@media screen and (max-width: 900px) {
+  .product-box {
+    width: 45%;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .product-box {
+    width: 90%;
+  }
+
+  nav {
+    flex-direction: column;
+  }
+
+  nav a {
+    margin: 10px 0;
+  }
+}
