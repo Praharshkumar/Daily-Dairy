@@ -15,9 +15,9 @@ A simple and visually appealing product showcase page for dairy products, built 
 
 ## 💡 Highlights
 
-🎨 Aesthetic layout with scenic background
-📱 Mobile-first responsive design
-🖱️ Smooth hover effects on product cards
-⚙️ Built with pure HTML & CSS (no JavaScript)
+- 🎨 Aesthetic layout with scenic background
+- 📱 Mobile-first responsive design
+- 🖱️ Smooth hover effects on product cards
+- ⚙️ Built with pure HTML & CSS (no JavaScript)
 
 
