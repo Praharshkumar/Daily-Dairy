@@ -2,7 +2,7 @@
 
 A simple and visually appealing product showcase page for dairy products, built using HTML and CSS. This responsive website lists farm-fresh dairy items like milk, eggs, butter, and more with pricing and product details.
 
----
+
 
 ## 💡 Features
 
@@ -12,9 +12,6 @@ A simple and visually appealing product showcase page for dairy products, built 
 - 📱 Responsive design for mobile & tablets
 - 🧭 Easy navigation with sticky header and menu
 
----
-
----
 
 ## 💡 Highlights
 
@@ -23,4 +20,4 @@ A simple and visually appealing product showcase page for dairy products, built 
 - 🖱️ Smooth hover effects on product cards
 - ⚙️ Built with pure HTML & CSS (no JavaScript)
 
----
+
