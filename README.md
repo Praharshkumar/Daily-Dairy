@@ -6,11 +6,11 @@ A simple and visually appealing product showcase page for dairy products, built 
 
 ## 💡 Features
 
--✅ Clean and minimal UI
--🌄 Full-width scenic background
--📦 Product grid with hover animation
--📱 Responsive design for mobile & tablets
--🧭 Easy navigation with sticky header and menu
+- ✅ Clean and minimal UI
+- 🌄 Full-width scenic background
+- 📦 Product grid with hover animation
+- 📱 Responsive design for mobile & tablets
+- 🧭 Easy navigation with sticky header and menu
 
 
 ## 💡 Highlights
